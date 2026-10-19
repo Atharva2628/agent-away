@@ -1,0 +1,4 @@
+.DS_Store
+# build output lives outside the repo, but just in case
+*.app/
+build/
